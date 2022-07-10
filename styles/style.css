@@ -1,3 +1,10 @@
-#hero {
-    background-color: aqua;
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #2f2e41;
+}
+
+.row {
+  margin-top: 64px;
+  margin-left: 0px;
 }
