@@ -2,9 +2,18 @@ body {
   margin: 0px;
   padding: 0px;
   background-color: #2f2e41;
+  font-family: 'Kantumruy Pro', sans-serif;
 }
 
-.row {
-  margin-top: 64px;
-  margin-left: 0px;
+
+.hero-img{
+  height: 600px;
+}
+
+.description {
+  margin-top: 54px;
+}
+
+.screenshot{
+  margin-top: 32px;
 }
